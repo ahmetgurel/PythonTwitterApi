@@ -4,10 +4,10 @@
 import tweepy
 
 
-consumer_key = "Dx0zRN33DwbXmwnffZGYGqQqh"
-consumer_secret = "9fP2q1x8qwLSwa0WuIdtCAA2KrcIsTAn3ffV7nKTFNgeyawTem"
-access_token = "248604331-5sICLtjS1o81yL3rt715vubVCCUCCn4VghvYsKZS"
-access_token_secret = "e3ctDrxdzEdN9d2nVSS05SL6NcWUxv9GHfmmOAAyrYtyT"
+consumer_key = "**************************************"
+consumer_secret = "**************************************"
+access_token = "**************************************"
+access_token_secret = "**************************************"
 
 giris = tweepy.OAuthHandler(consumer_key, consumer_secret)
 giris.set_access_token(access_token, access_token_secret)
